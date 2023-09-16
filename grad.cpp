@@ -19,7 +19,7 @@ int main()
     }
 
    //输出total
-   cout << "total = " << total << endl;
+    cout << "total = " << total << endl;
     cout << "totalAverage = " << total/10 << endl;
     return 0;
 }
